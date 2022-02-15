@@ -1,5 +1,9 @@
-com/springframework/springpetclinic/model/Person.class
-com/springframework/springpetclinic/model/Owner.class
-com/springframework/springpetclinic/model/Pet.class
-com/springframework/springpetclinic/model/PetType.class
-com/springframework/springpetclinic/model/Vet.class
+com\springframework\springpetclinic\model\Vet.class
+com\springframework\springpetclinic\services\PetService.class
+com\springframework\springpetclinic\services\VetService.class
+com\springframework\springpetclinic\services\OwnerService.class
+com\springframework\springpetclinic\model\PetType.class
+com\springframework\springpetclinic\model\Person.class
+com\springframework\springpetclinic\model\BaseEntity.class
+com\springframework\springpetclinic\model\Owner.class
+com\springframework\springpetclinic\model\Pet.class
